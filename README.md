@@ -2,11 +2,10 @@
 
 - Projeto de jogo: **Sakura Studios**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pitz007&show_icons=true&theme=dark&title_color=ff00f7&text_color=ffffff&locale=en" alt="pitz007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pitz007&show_icons=true&theme=synthwave&title_color=8100eb&text_color=ffffff&bg_color=1e2b8f&cache_seconds=1800&locale=en" alt="pitz007" /></p>
+
